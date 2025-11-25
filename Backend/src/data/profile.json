@@ -1,0 +1,9 @@
+{
+    "name": "Krishna Kumar",
+    "role": "Full Stack Developer",
+    "profilePic": "http://localhost:5000/uploads/kk.png",
+    "desc":"Aspiring Full-Stack Developer passionate about building modern and efficient web applications. Skilled in MERN stack, problem-solving, and crafting seamless digital experiences.",
+    "resume":"http://localhost:5000/uploads/kkr.pdf"
+
+    
+}

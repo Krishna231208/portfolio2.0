@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "RHCSA",
+    "img": "http://localhost:5000/uploads/certificates/rhc.jpg",
+    "issued": "Oct 2024",
+    "link":"https://www.linkedin.com/posts/krishna-kumar-144338258_rhcsa-redhat-linux-activity-7257664527104696321-d3d2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9ozcQBHYV9jMpFqX4hR3JZ72K8_E9rQCE",
+    "desc":"Completed RH199 covering RHEL 9.3 system administration tasks."
+  },
+  {
+    "id": 2,
+    "title": "Java Developer | Oasis Infobyte",
+    "img": "http://localhost:5000/uploads/certificates/java.jpg",
+    "issued": "May 2023",
+    "link":"https://www.linkedin.com/posts/krishna-kumar-144338258_oasisinfobyte-java-activity-7064813020979314688-nieh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9ozcQBHYV9jMpFqX4hR3JZ72K8_E9rQCE",
+    "desc":"Successfully completed a 1-month internship in Java Development with Oasis Infobyte, gaining practical experience and skills."
+  },
+  {
+    "id": 3,
+    "title": "Summer Internship | NTPC",
+    "img": "http://localhost:5000/uploads/certificates/ntpc.png",
+    "issued": "July 2025",
+    "link":"https://www.linkedin.com/posts/krishna-kumar-144338258_ntpc-rihand-certificate-activity-7365690850397360129-gVza/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9ozcQBHYV9jMpFqX4hR3JZ72K8_E9rQCE",
+    "desc":"At NTPC Limited, created a data automation tool and a Power BI dashboard to drive data-driven decision-making."
+  }
+]

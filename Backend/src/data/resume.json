@@ -1,0 +1,107 @@
+{
+  "name": "Krishna Kumar",
+  "email": "krishnanand231208@gmail.com",
+  "phone": "6393901968",
+  "location": "Uttar Pradesh, India",
+  "linkedin": "krishna-kumar-144338258",
+  "github": "Krishna231208",
+
+  "experience": [
+    {
+      "company": "NTPC Limited, Rihand",
+      "duration": "June 2025 – July 2025",
+      "highlights": [
+        "Developed a web-based automation tool to extract and structure data from unstructured Excel files, improving accuracy and reducing manual effort.",
+        "Designed and implemented an interactive Power BI dashboard for data visualization and insights.",
+        "Collaborated with IT department to gather requirements and deliver a functional and user-friendly solution."
+      ]
+    },
+    {
+      "company": "Oasis Infobyte",
+      "role": "Java Programming Intern",
+      "duration": "April 2023 – May 2023",
+      "highlights": [
+        "Developed ATM simulation project demonstrating core Java concepts.",
+        "Built a number guessing game involving input handling, loops, and conditionals."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "MyTurn – Full-Stack Appointment Booking Platform",
+      "description": "A MERN application supporting multi-role access (User/Doctor/Admin) with dashboards.",
+      "highlights": [
+        "Implemented doctor dashboard for appointment management.",
+        "Implemented admin portal to verify and manage doctors.",
+        "Responsive UI built with React + Tailwind CSS.",
+        "Secured REST API with JWT.",
+        "Integrated Cloudinary for media storage."
+      ],
+      "tech": ["MongoDB", "Express.js", "React", "Node.js", "JWT", "Tailwind", "Cloudinary"]
+    },
+    {
+      "title": "Online News Application",
+      "description": "React web app providing real-time news using NewsAPI.",
+      "highlights": [
+        "Category-wise browsing: tech, business, sports, entertainment.",
+        "Search + pagination.",
+        "Lazy loading for 30% faster performance.",
+        "Dark/Light theme support."
+      ],
+      "tech": ["React.js", "JavaScript", "NewsAPI", "CSS3"]
+    },
+    {
+      "title": "Number Guessing Game",
+      "description": "Java console game for random number guessing.",
+      "highlights": [
+        "Adaptive feedback system.",
+        "Attempt tracking and input validation."
+      ],
+      "tech": ["Java"]
+    }
+  ],
+
+  "certifications": [
+    {
+      "title": "Red Hat Certified System Administrator (RHCSA)",
+      "description": "Completed RH199 Rapid Track Course covering system administration on RHEL 9.3.",
+      "issued": "17 October 2024"
+    }
+  ],
+
+  "skills": {
+    "programming_languages": ["Java", "JavaScript", "C"],
+    "frontend": ["React.js", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+    "backend": ["Node.js"],
+    "database": ["MySQL", "MongoDB"],
+    "tools": ["Git", "GitHub"],
+    "operating_systems": ["Linux", "Windows"],
+    "core_concepts": ["Data Structures", "Algorithms", "OOP"]
+  },
+
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institution": "Rajkiya Engineering College, Banda",
+      "duration": "Sept 2022 – June 2026",
+      "cgpa": "6.8/10"
+    },
+    {
+      "degree": "Intermediate (Class XII)",
+      "institution": "DC Lewis Memorial School, Renukoot",
+      "duration": "Apr 2020 – Feb 2021",
+      "percentage": "74%",
+      "stream": "Science (PCM)"
+    }
+  ],
+
+  "languages": ["English", "Hindi"],
+
+  "interests": [
+    "Solving coding challenges (LeetCode, GeeksforGeeks)",
+    "Playing chess and strategy games",
+    "Experimenting with AI/ML models",
+    "Attending hackathons & tech meetups"
+  ]
+}

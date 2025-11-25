@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1,
+    "question": "What is the candidate's name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 2,
+    "question": "Who is this resume about?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 3,
+    "question": "What is Krishna's full name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 4,
+    "question": "State the name mentioned in the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 5,
+    "question": "Identify the person's name from the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 6,
+    "question": "What is Krishna's email address?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 7,
+    "question": "Which email is provided in the resume?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 8,
+    "question": "Where can Krishna be contacted via email?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 9,
+    "question": "Give the email ID mentioned.",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 10,
+    "question": "What is the professional email of Krishna?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 11,
+    "question": "What is Krishna's mobile number?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 12,
+    "question": "Which phone number is listed?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 13,
+    "question": "How can Krishna be contacted via phone?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 14,
+    "question": "Give the phone number mentioned in the resume.",
+    "answer": "6393901968"
+  },
+  {
+    "id": 15,
+    "question": "What is the contact number of the candidate?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 16,
+    "question": "Where does Krishna live?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 17,
+    "question": "What is the candidate's location?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 18,
+    "question": "Which state does Krishna belong to?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 19,
+    "question": "Where is Krishna based?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 20,
+    "question": "Mention Krishna's address region.",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 21,
+    "question": "What is Krishna's GitHub username?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 22,
+    "question": "Which GitHub profile is linked?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 23,
+    "question": "Where can Krishna's code repositories be found?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 24,
+    "question": "Provide Krishna's GitHub ID.",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 25,
+    "question": "What GitHub handle is listed?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 26,
+    "question": "What is Krishna's LinkedIn handle?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 27,
+    "question": "Which LinkedIn profile is mentioned?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 28,
+    "question": "Give the LinkedIn ID from the resume.",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 29,
+    "question": "Where can Krishna be found on LinkedIn?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 30,
+    "question": "What is the listed LinkedIn username?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 31,
+    "question": "What are Krishna's skills?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 32,
+    "question": "List the technical skills Krishna knows.",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 33,
+    "question": "Which programming and tech skills are mentioned?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 34,
+    "question": "What skills does Krishna have?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 35,
+    "question": "Which technologies is Krishna skilled in?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 36,
+    "question": "Where is Krishna pursuing B.Tech?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 37,
+    "question": "What degree is Krishna studying?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 38,
+    "question": "Give details about Krishna's B.Tech education.",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 39,
+    "question": "What is Krishna's CGPA and college?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 40,
+    "question": "Which engineering branch is Krishna in?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 41,
+    "question": "What were Krishna's Class 12 marks?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 42,
+    "question": "Where did Krishna complete Class 12?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 43,
+    "question": "How much percentage did Krishna get in intermediate?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 44,
+    "question": "Give details about Krishna's Class 12 education.",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 45,
+    "question": "What school did Krishna study in for Class XII?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 46,
+    "question": "Where did Krishna intern in 2025?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 47,
+    "question": "Give details about Krishna's NTPC internship.",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 48,
+    "question": "What work did Krishna do at NTPC?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 49,
+    "question": "Which company did Krishna intern with at Rihand?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 50,
+    "question": "What was Krishna's 2025 summer internship?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 51,
+    "question": "Where did Krishna intern in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 52,
+    "question": "Which internship involved Java programming?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 53,
+    "question": "What projects were done at Oasis Infobyte?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 54,
+    "question": "What was Krishna's internship in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 55,
+    "question": "Give details about Krishna's Oasis internship.",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 56,
+    "question": "What is Krishna's MERN project?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 57,
+    "question": "Give details about the MyTurn project.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 58,
+    "question": "Which project includes role-based authorization?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 59,
+    "question": "What full-stack app did Krishna build?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 60,
+    "question": "Name the appointment booking platform Krishna developed.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 61,
+    "question": "Which news project did Krishna build?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 62,
+    "question": "What app uses NewsAPI?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 63,
+    "question": "Give details about Krishna's news application.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 64,
+    "question": "Which project includes lazy loading?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 65,
+    "question": "Name Krishna's online news platform.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 66,
+    "question": "Which Java game did Krishna create?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 67,
+    "question": "Give details about Krishna's number guessing game.",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 68,
+    "question": "What console game did Krishna develop?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 69,
+    "question": "Which project uses random number generation?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 70,
+    "question": "What Java-based game is mentioned in the resume?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 71,
+    "question": "Which Red Hat certification does Krishna hold?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 72,
+    "question": "Give details about the RHCSA certification.",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 73,
+    "question": "What certification was issued on 17 October 2024?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 74,
+    "question": "What Linux administration certification does Krishna have?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 75,
+    "question": "Which RHCSA course version did Krishna complete?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 76,
+    "question": "What is the candidate's name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 77,
+    "question": "Who is this resume about?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 78,
+    "question": "What is Krishna's full name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 79,
+    "question": "State the name mentioned in the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 80,
+    "question": "Identify the person's name from the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 81,
+    "question": "What is Krishna's email address?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 82,
+    "question": "Which email is provided in the resume?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 83,
+    "question": "Where can Krishna be contacted via email?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 84,
+    "question": "Give the email ID mentioned.",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 85,
+    "question": "What is the professional email of Krishna?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 86,
+    "question": "What is Krishna's mobile number?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 87,
+    "question": "Which phone number is listed?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 88,
+    "question": "How can Krishna be contacted via phone?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 89,
+    "question": "Give the phone number mentioned in the resume.",
+    "answer": "6393901968"
+  },
+  {
+    "id": 90,
+    "question": "What is the contact number of the candidate?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 91,
+    "question": "Where does Krishna live?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 92,
+    "question": "What is the candidate's location?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 93,
+    "question": "Which state does Krishna belong to?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 94,
+    "question": "Where is Krishna based?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 95,
+    "question": "Mention Krishna's address region.",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 96,
+    "question": "What is Krishna's GitHub username?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 97,
+    "question": "Which GitHub profile is linked?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 98,
+    "question": "Where can Krishna's code repositories be found?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 99,
+    "question": "Provide Krishna's GitHub ID.",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 100,
+    "question": "What GitHub handle is listed?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 101,
+    "question": "What is Krishna's LinkedIn handle?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 102,
+    "question": "Which LinkedIn profile is mentioned?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 103,
+    "question": "Give the LinkedIn ID from the resume.",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 104,
+    "question": "Where can Krishna be found on LinkedIn?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 105,
+    "question": "What is the listed LinkedIn username?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 106,
+    "question": "What are Krishna's skills?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 107,
+    "question": "List the technical skills Krishna knows.",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 108,
+    "question": "Which programming and tech skills are mentioned?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 109,
+    "question": "What skills does Krishna have?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 110,
+    "question": "Which technologies is Krishna skilled in?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 111,
+    "question": "Where is Krishna pursuing B.Tech?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 112,
+    "question": "What degree is Krishna studying?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 113,
+    "question": "Give details about Krishna's B.Tech education.",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 114,
+    "question": "What is Krishna's CGPA and college?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 115,
+    "question": "Which engineering branch is Krishna in?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 116,
+    "question": "What were Krishna's Class 12 marks?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 117,
+    "question": "Where did Krishna complete Class 12?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 118,
+    "question": "How much percentage did Krishna get in intermediate?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 119,
+    "question": "Give details about Krishna's Class 12 education.",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 120,
+    "question": "What school did Krishna study in for Class XII?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 121,
+    "question": "Where did Krishna intern in 2025?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 122,
+    "question": "Give details about Krishna's NTPC internship.",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 123,
+    "question": "What work did Krishna do at NTPC?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 124,
+    "question": "Which company did Krishna intern with at Rihand?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 125,
+    "question": "What was Krishna's 2025 summer internship?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 126,
+    "question": "Where did Krishna intern in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 127,
+    "question": "Which internship involved Java programming?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 128,
+    "question": "What projects were done at Oasis Infobyte?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 129,
+    "question": "What was Krishna's internship in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 130,
+    "question": "Give details about Krishna's Oasis internship.",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 131,
+    "question": "What is Krishna's MERN project?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 132,
+    "question": "Give details about the MyTurn project.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 133,
+    "question": "Which project includes role-based authorization?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 134,
+    "question": "What full-stack app did Krishna build?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 135,
+    "question": "Name the appointment booking platform Krishna developed.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 136,
+    "question": "Which news project did Krishna build?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 137,
+    "question": "What app uses NewsAPI?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 138,
+    "question": "Give details about Krishna's news application.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 139,
+    "question": "Which project includes lazy loading?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 140,
+    "question": "Name Krishna's online news platform.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 141,
+    "question": "Which Java game did Krishna create?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 142,
+    "question": "Give details about Krishna's number guessing game.",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 143,
+    "question": "What console game did Krishna develop?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 144,
+    "question": "Which project uses random number generation?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 145,
+    "question": "What Java-based game is mentioned in the resume?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 146,
+    "question": "Which Red Hat certification does Krishna hold?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 147,
+    "question": "Give details about the RHCSA certification.",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 148,
+    "question": "What certification was issued on 17 October 2024?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 149,
+    "question": "What Linux administration certification does Krishna have?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 150,
+    "question": "Which RHCSA course version did Krishna complete?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 151,
+    "question": "What is the candidate's name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 152,
+    "question": "Who is this resume about?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 153,
+    "question": "What is Krishna's full name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 154,
+    "question": "State the name mentioned in the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 155,
+    "question": "Identify the person's name from the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 156,
+    "question": "What is Krishna's email address?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 157,
+    "question": "Which email is provided in the resume?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 158,
+    "question": "Where can Krishna be contacted via email?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 159,
+    "question": "Give the email ID mentioned.",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 160,
+    "question": "What is the professional email of Krishna?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 161,
+    "question": "What is Krishna's mobile number?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 162,
+    "question": "Which phone number is listed?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 163,
+    "question": "How can Krishna be contacted via phone?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 164,
+    "question": "Give the phone number mentioned in the resume.",
+    "answer": "6393901968"
+  },
+  {
+    "id": 165,
+    "question": "What is the contact number of the candidate?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 166,
+    "question": "Where does Krishna live?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 167,
+    "question": "What is the candidate's location?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 168,
+    "question": "Which state does Krishna belong to?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 169,
+    "question": "Where is Krishna based?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 170,
+    "question": "Mention Krishna's address region.",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 171,
+    "question": "What is Krishna's GitHub username?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 172,
+    "question": "Which GitHub profile is linked?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 173,
+    "question": "Where can Krishna's code repositories be found?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 174,
+    "question": "Provide Krishna's GitHub ID.",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 175,
+    "question": "What GitHub handle is listed?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 176,
+    "question": "What is Krishna's LinkedIn handle?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 177,
+    "question": "Which LinkedIn profile is mentioned?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 178,
+    "question": "Give the LinkedIn ID from the resume.",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 179,
+    "question": "Where can Krishna be found on LinkedIn?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 180,
+    "question": "What is the listed LinkedIn username?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 181,
+    "question": "What are Krishna's skills?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 182,
+    "question": "List the technical skills Krishna knows.",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 183,
+    "question": "Which programming and tech skills are mentioned?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 184,
+    "question": "What skills does Krishna have?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 185,
+    "question": "Which technologies is Krishna skilled in?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 186,
+    "question": "Where is Krishna pursuing B.Tech?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 187,
+    "question": "What degree is Krishna studying?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 188,
+    "question": "Give details about Krishna's B.Tech education.",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 189,
+    "question": "What is Krishna's CGPA and college?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 190,
+    "question": "Which engineering branch is Krishna in?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 191,
+    "question": "What were Krishna's Class 12 marks?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 192,
+    "question": "Where did Krishna complete Class 12?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 193,
+    "question": "How much percentage did Krishna get in intermediate?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 194,
+    "question": "Give details about Krishna's Class 12 education.",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 195,
+    "question": "What school did Krishna study in for Class XII?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 196,
+    "question": "Where did Krishna intern in 2025?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 197,
+    "question": "Give details about Krishna's NTPC internship.",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 198,
+    "question": "What work did Krishna do at NTPC?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 199,
+    "question": "Which company did Krishna intern with at Rihand?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 200,
+    "question": "What was Krishna's 2025 summer internship?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 201,
+    "question": "Where did Krishna intern in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 202,
+    "question": "Which internship involved Java programming?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 203,
+    "question": "What projects were done at Oasis Infobyte?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 204,
+    "question": "What was Krishna's internship in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 205,
+    "question": "Give details about Krishna's Oasis internship.",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 206,
+    "question": "What is Krishna's MERN project?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 207,
+    "question": "Give details about the MyTurn project.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 208,
+    "question": "Which project includes role-based authorization?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 209,
+    "question": "What full-stack app did Krishna build?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 210,
+    "question": "Name the appointment booking platform Krishna developed.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 211,
+    "question": "Which news project did Krishna build?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 212,
+    "question": "What app uses NewsAPI?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 213,
+    "question": "Give details about Krishna's news application.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 214,
+    "question": "Which project includes lazy loading?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 215,
+    "question": "Name Krishna's online news platform.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 216,
+    "question": "Which Java game did Krishna create?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 217,
+    "question": "Give details about Krishna's number guessing game.",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 218,
+    "question": "What console game did Krishna develop?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 219,
+    "question": "Which project uses random number generation?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 220,
+    "question": "What Java-based game is mentioned in the resume?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 221,
+    "question": "Which Red Hat certification does Krishna hold?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 222,
+    "question": "Give details about the RHCSA certification.",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 223,
+    "question": "What certification was issued on 17 October 2024?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 224,
+    "question": "What Linux administration certification does Krishna have?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 225,
+    "question": "Which RHCSA course version did Krishna complete?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 226,
+    "question": "What is the candidate's name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 227,
+    "question": "Who is this resume about?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 228,
+    "question": "What is Krishna's full name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 229,
+    "question": "State the name mentioned in the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 230,
+    "question": "Identify the person's name from the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 231,
+    "question": "What is Krishna's email address?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 232,
+    "question": "Which email is provided in the resume?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 233,
+    "question": "Where can Krishna be contacted via email?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 234,
+    "question": "Give the email ID mentioned.",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 235,
+    "question": "What is the professional email of Krishna?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 236,
+    "question": "What is Krishna's mobile number?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 237,
+    "question": "Which phone number is listed?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 238,
+    "question": "How can Krishna be contacted via phone?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 239,
+    "question": "Give the phone number mentioned in the resume.",
+    "answer": "6393901968"
+  },
+  {
+    "id": 240,
+    "question": "What is the contact number of the candidate?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 241,
+    "question": "Where does Krishna live?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 242,
+    "question": "What is the candidate's location?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 243,
+    "question": "Which state does Krishna belong to?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 244,
+    "question": "Where is Krishna based?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 245,
+    "question": "Mention Krishna's address region.",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 246,
+    "question": "What is Krishna's GitHub username?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 247,
+    "question": "Which GitHub profile is linked?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 248,
+    "question": "Where can Krishna's code repositories be found?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 249,
+    "question": "Provide Krishna's GitHub ID.",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 250,
+    "question": "What GitHub handle is listed?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 251,
+    "question": "What is Krishna's LinkedIn handle?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 252,
+    "question": "Which LinkedIn profile is mentioned?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 253,
+    "question": "Give the LinkedIn ID from the resume.",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 254,
+    "question": "Where can Krishna be found on LinkedIn?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 255,
+    "question": "What is the listed LinkedIn username?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 256,
+    "question": "What are Krishna's skills?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 257,
+    "question": "List the technical skills Krishna knows.",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 258,
+    "question": "Which programming and tech skills are mentioned?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 259,
+    "question": "What skills does Krishna have?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 260,
+    "question": "Which technologies is Krishna skilled in?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 261,
+    "question": "Where is Krishna pursuing B.Tech?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 262,
+    "question": "What degree is Krishna studying?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 263,
+    "question": "Give details about Krishna's B.Tech education.",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 264,
+    "question": "What is Krishna's CGPA and college?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 265,
+    "question": "Which engineering branch is Krishna in?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 266,
+    "question": "What were Krishna's Class 12 marks?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 267,
+    "question": "Where did Krishna complete Class 12?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 268,
+    "question": "How much percentage did Krishna get in intermediate?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 269,
+    "question": "Give details about Krishna's Class 12 education.",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 270,
+    "question": "What school did Krishna study in for Class XII?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 271,
+    "question": "Where did Krishna intern in 2025?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 272,
+    "question": "Give details about Krishna's NTPC internship.",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 273,
+    "question": "What work did Krishna do at NTPC?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 274,
+    "question": "Which company did Krishna intern with at Rihand?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 275,
+    "question": "What was Krishna's 2025 summer internship?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 276,
+    "question": "Where did Krishna intern in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 277,
+    "question": "Which internship involved Java programming?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 278,
+    "question": "What projects were done at Oasis Infobyte?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 279,
+    "question": "What was Krishna's internship in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 280,
+    "question": "Give details about Krishna's Oasis internship.",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 281,
+    "question": "What is Krishna's MERN project?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 282,
+    "question": "Give details about the MyTurn project.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 283,
+    "question": "Which project includes role-based authorization?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 284,
+    "question": "What full-stack app did Krishna build?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 285,
+    "question": "Name the appointment booking platform Krishna developed.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 286,
+    "question": "Which news project did Krishna build?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 287,
+    "question": "What app uses NewsAPI?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 288,
+    "question": "Give details about Krishna's news application.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 289,
+    "question": "Which project includes lazy loading?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 290,
+    "question": "Name Krishna's online news platform.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 291,
+    "question": "Which Java game did Krishna create?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 292,
+    "question": "Give details about Krishna's number guessing game.",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 293,
+    "question": "What console game did Krishna develop?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 294,
+    "question": "Which project uses random number generation?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 295,
+    "question": "What Java-based game is mentioned in the resume?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 296,
+    "question": "Which Red Hat certification does Krishna hold?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 297,
+    "question": "Give details about the RHCSA certification.",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 298,
+    "question": "What certification was issued on 17 October 2024?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 299,
+    "question": "What Linux administration certification does Krishna have?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 300,
+    "question": "Which RHCSA course version did Krishna complete?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 301,
+    "question": "What is the candidate's name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 302,
+    "question": "Who is this resume about?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 303,
+    "question": "What is Krishna's full name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 304,
+    "question": "State the name mentioned in the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 305,
+    "question": "Identify the person's name from the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 306,
+    "question": "What is Krishna's email address?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 307,
+    "question": "Which email is provided in the resume?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 308,
+    "question": "Where can Krishna be contacted via email?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 309,
+    "question": "Give the email ID mentioned.",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 310,
+    "question": "What is the professional email of Krishna?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 311,
+    "question": "What is Krishna's mobile number?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 312,
+    "question": "Which phone number is listed?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 313,
+    "question": "How can Krishna be contacted via phone?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 314,
+    "question": "Give the phone number mentioned in the resume.",
+    "answer": "6393901968"
+  },
+  {
+    "id": 315,
+    "question": "What is the contact number of the candidate?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 316,
+    "question": "Where does Krishna live?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 317,
+    "question": "What is the candidate's location?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 318,
+    "question": "Which state does Krishna belong to?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 319,
+    "question": "Where is Krishna based?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 320,
+    "question": "Mention Krishna's address region.",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 321,
+    "question": "What is Krishna's GitHub username?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 322,
+    "question": "Which GitHub profile is linked?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 323,
+    "question": "Where can Krishna's code repositories be found?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 324,
+    "question": "Provide Krishna's GitHub ID.",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 325,
+    "question": "What GitHub handle is listed?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 326,
+    "question": "What is Krishna's LinkedIn handle?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 327,
+    "question": "Which LinkedIn profile is mentioned?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 328,
+    "question": "Give the LinkedIn ID from the resume.",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 329,
+    "question": "Where can Krishna be found on LinkedIn?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 330,
+    "question": "What is the listed LinkedIn username?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 331,
+    "question": "What are Krishna's skills?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 332,
+    "question": "List the technical skills Krishna knows.",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 333,
+    "question": "Which programming and tech skills are mentioned?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 334,
+    "question": "What skills does Krishna have?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 335,
+    "question": "Which technologies is Krishna skilled in?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 336,
+    "question": "Where is Krishna pursuing B.Tech?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 337,
+    "question": "What degree is Krishna studying?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 338,
+    "question": "Give details about Krishna's B.Tech education.",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 339,
+    "question": "What is Krishna's CGPA and college?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 340,
+    "question": "Which engineering branch is Krishna in?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 341,
+    "question": "What were Krishna's Class 12 marks?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 342,
+    "question": "Where did Krishna complete Class 12?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 343,
+    "question": "How much percentage did Krishna get in intermediate?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 344,
+    "question": "Give details about Krishna's Class 12 education.",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 345,
+    "question": "What school did Krishna study in for Class XII?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 346,
+    "question": "Where did Krishna intern in 2025?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 347,
+    "question": "Give details about Krishna's NTPC internship.",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 348,
+    "question": "What work did Krishna do at NTPC?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 349,
+    "question": "Which company did Krishna intern with at Rihand?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 350,
+    "question": "What was Krishna's 2025 summer internship?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 351,
+    "question": "Where did Krishna intern in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 352,
+    "question": "Which internship involved Java programming?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 353,
+    "question": "What projects were done at Oasis Infobyte?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 354,
+    "question": "What was Krishna's internship in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 355,
+    "question": "Give details about Krishna's Oasis internship.",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 356,
+    "question": "What is Krishna's MERN project?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 357,
+    "question": "Give details about the MyTurn project.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 358,
+    "question": "Which project includes role-based authorization?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 359,
+    "question": "What full-stack app did Krishna build?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 360,
+    "question": "Name the appointment booking platform Krishna developed.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 361,
+    "question": "Which news project did Krishna build?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 362,
+    "question": "What app uses NewsAPI?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 363,
+    "question": "Give details about Krishna's news application.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 364,
+    "question": "Which project includes lazy loading?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 365,
+    "question": "Name Krishna's online news platform.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 366,
+    "question": "Which Java game did Krishna create?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 367,
+    "question": "Give details about Krishna's number guessing game.",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 368,
+    "question": "What console game did Krishna develop?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 369,
+    "question": "Which project uses random number generation?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 370,
+    "question": "What Java-based game is mentioned in the resume?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 371,
+    "question": "Which Red Hat certification does Krishna hold?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 372,
+    "question": "Give details about the RHCSA certification.",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 373,
+    "question": "What certification was issued on 17 October 2024?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 374,
+    "question": "What Linux administration certification does Krishna have?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 375,
+    "question": "Which RHCSA course version did Krishna complete?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 376,
+    "question": "What is the candidate's name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 377,
+    "question": "Who is this resume about?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 378,
+    "question": "What is Krishna's full name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 379,
+    "question": "State the name mentioned in the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 380,
+    "question": "Identify the person's name from the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 381,
+    "question": "What is Krishna's email address?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 382,
+    "question": "Which email is provided in the resume?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 383,
+    "question": "Where can Krishna be contacted via email?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 384,
+    "question": "Give the email ID mentioned.",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 385,
+    "question": "What is the professional email of Krishna?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 386,
+    "question": "What is Krishna's mobile number?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 387,
+    "question": "Which phone number is listed?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 388,
+    "question": "How can Krishna be contacted via phone?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 389,
+    "question": "Give the phone number mentioned in the resume.",
+    "answer": "6393901968"
+  },
+  {
+    "id": 390,
+    "question": "What is the contact number of the candidate?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 391,
+    "question": "Where does Krishna live?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 392,
+    "question": "What is the candidate's location?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 393,
+    "question": "Which state does Krishna belong to?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 394,
+    "question": "Where is Krishna based?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 395,
+    "question": "Mention Krishna's address region.",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 396,
+    "question": "What is Krishna's GitHub username?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 397,
+    "question": "Which GitHub profile is linked?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 398,
+    "question": "Where can Krishna's code repositories be found?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 399,
+    "question": "Provide Krishna's GitHub ID.",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 400,
+    "question": "What GitHub handle is listed?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 401,
+    "question": "What is Krishna's LinkedIn handle?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 402,
+    "question": "Which LinkedIn profile is mentioned?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 403,
+    "question": "Give the LinkedIn ID from the resume.",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 404,
+    "question": "Where can Krishna be found on LinkedIn?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 405,
+    "question": "What is the listed LinkedIn username?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 406,
+    "question": "What are Krishna's skills?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 407,
+    "question": "List the technical skills Krishna knows.",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 408,
+    "question": "Which programming and tech skills are mentioned?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 409,
+    "question": "What skills does Krishna have?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 410,
+    "question": "Which technologies is Krishna skilled in?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 411,
+    "question": "Where is Krishna pursuing B.Tech?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 412,
+    "question": "What degree is Krishna studying?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 413,
+    "question": "Give details about Krishna's B.Tech education.",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 414,
+    "question": "What is Krishna's CGPA and college?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 415,
+    "question": "Which engineering branch is Krishna in?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 416,
+    "question": "What were Krishna's Class 12 marks?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 417,
+    "question": "Where did Krishna complete Class 12?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 418,
+    "question": "How much percentage did Krishna get in intermediate?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 419,
+    "question": "Give details about Krishna's Class 12 education.",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 420,
+    "question": "What school did Krishna study in for Class XII?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 421,
+    "question": "Where did Krishna intern in 2025?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 422,
+    "question": "Give details about Krishna's NTPC internship.",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 423,
+    "question": "What work did Krishna do at NTPC?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 424,
+    "question": "Which company did Krishna intern with at Rihand?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 425,
+    "question": "What was Krishna's 2025 summer internship?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 426,
+    "question": "Where did Krishna intern in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 427,
+    "question": "Which internship involved Java programming?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 428,
+    "question": "What projects were done at Oasis Infobyte?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 429,
+    "question": "What was Krishna's internship in 2023?",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 430,
+    "question": "Give details about Krishna's Oasis internship.",
+    "answer": "Java Programming Intern at Oasis Infobyte (April 2023 \u2013 May 2023)"
+  },
+  {
+    "id": 431,
+    "question": "What is Krishna's MERN project?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 432,
+    "question": "Give details about the MyTurn project.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 433,
+    "question": "Which project includes role-based authorization?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 434,
+    "question": "What full-stack app did Krishna build?",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 435,
+    "question": "Name the appointment booking platform Krishna developed.",
+    "answer": "MyTurn MERN Appointment Booking Platform"
+  },
+  {
+    "id": 436,
+    "question": "Which news project did Krishna build?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 437,
+    "question": "What app uses NewsAPI?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 438,
+    "question": "Give details about Krishna's news application.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 439,
+    "question": "Which project includes lazy loading?",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 440,
+    "question": "Name Krishna's online news platform.",
+    "answer": "Online News Application using React and NewsAPI"
+  },
+  {
+    "id": 441,
+    "question": "Which Java game did Krishna create?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 442,
+    "question": "Give details about Krishna's number guessing game.",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 443,
+    "question": "What console game did Krishna develop?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 444,
+    "question": "Which project uses random number generation?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 445,
+    "question": "What Java-based game is mentioned in the resume?",
+    "answer": "Number Guessing Game using Java"
+  },
+  {
+    "id": 446,
+    "question": "Which Red Hat certification does Krishna hold?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 447,
+    "question": "Give details about the RHCSA certification.",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 448,
+    "question": "What certification was issued on 17 October 2024?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 449,
+    "question": "What Linux administration certification does Krishna have?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 450,
+    "question": "Which RHCSA course version did Krishna complete?",
+    "answer": "Red Hat Certified System Administrator (Issued 17 Oct 2024)"
+  },
+  {
+    "id": 451,
+    "question": "What is the candidate's name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 452,
+    "question": "Who is this resume about?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 453,
+    "question": "What is Krishna's full name?",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 454,
+    "question": "State the name mentioned in the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 455,
+    "question": "Identify the person's name from the resume.",
+    "answer": "Krishna Kumar"
+  },
+  {
+    "id": 456,
+    "question": "What is Krishna's email address?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 457,
+    "question": "Which email is provided in the resume?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 458,
+    "question": "Where can Krishna be contacted via email?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 459,
+    "question": "Give the email ID mentioned.",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 460,
+    "question": "What is the professional email of Krishna?",
+    "answer": "krishnanand231208@gmail.com"
+  },
+  {
+    "id": 461,
+    "question": "What is Krishna's mobile number?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 462,
+    "question": "Which phone number is listed?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 463,
+    "question": "How can Krishna be contacted via phone?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 464,
+    "question": "Give the phone number mentioned in the resume.",
+    "answer": "6393901968"
+  },
+  {
+    "id": 465,
+    "question": "What is the contact number of the candidate?",
+    "answer": "6393901968"
+  },
+  {
+    "id": 466,
+    "question": "Where does Krishna live?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 467,
+    "question": "What is the candidate's location?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 468,
+    "question": "Which state does Krishna belong to?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 469,
+    "question": "Where is Krishna based?",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 470,
+    "question": "Mention Krishna's address region.",
+    "answer": "Uttar Pradesh, India"
+  },
+  {
+    "id": 471,
+    "question": "What is Krishna's GitHub username?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 472,
+    "question": "Which GitHub profile is linked?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 473,
+    "question": "Where can Krishna's code repositories be found?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 474,
+    "question": "Provide Krishna's GitHub ID.",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 475,
+    "question": "What GitHub handle is listed?",
+    "answer": "Krishna231208"
+  },
+  {
+    "id": 476,
+    "question": "What is Krishna's LinkedIn handle?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 477,
+    "question": "Which LinkedIn profile is mentioned?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 478,
+    "question": "Give the LinkedIn ID from the resume.",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 479,
+    "question": "Where can Krishna be found on LinkedIn?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 480,
+    "question": "What is the listed LinkedIn username?",
+    "answer": "krishna-kumar-144338258"
+  },
+  {
+    "id": 481,
+    "question": "What are Krishna's skills?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 482,
+    "question": "List the technical skills Krishna knows.",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 483,
+    "question": "Which programming and tech skills are mentioned?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 484,
+    "question": "What skills does Krishna have?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 485,
+    "question": "Which technologies is Krishna skilled in?",
+    "answer": "Java, JavaScript, C, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, Git, GitHub, Linux, Windows, Data Structures, Algorithms, OOP"
+  },
+  {
+    "id": 486,
+    "question": "Where is Krishna pursuing B.Tech?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 487,
+    "question": "What degree is Krishna studying?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 488,
+    "question": "Give details about Krishna's B.Tech education.",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 489,
+    "question": "What is Krishna's CGPA and college?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 490,
+    "question": "Which engineering branch is Krishna in?",
+    "answer": "B.Tech in Information Technology from Rajkiya Engineering College, Banda (2022\u20132026), CGPA 6.8/10"
+  },
+  {
+    "id": 491,
+    "question": "What were Krishna's Class 12 marks?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 492,
+    "question": "Where did Krishna complete Class 12?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 493,
+    "question": "How much percentage did Krishna get in intermediate?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 494,
+    "question": "Give details about Krishna's Class 12 education.",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 495,
+    "question": "What school did Krishna study in for Class XII?",
+    "answer": "74% in Class 12 from DC Lewis Memorial School, Renukoot"
+  },
+  {
+    "id": 496,
+    "question": "Where did Krishna intern in 2025?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 497,
+    "question": "Give details about Krishna's NTPC internship.",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 498,
+    "question": "What work did Krishna do at NTPC?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 499,
+    "question": "Which company did Krishna intern with at Rihand?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  },
+  {
+    "id": 500,
+    "question": "What was Krishna's 2025 summer internship?",
+    "answer": "Intern at NTPC Limited, Rihand (June 2025 \u2013 July 2025)"
+  }
+]
